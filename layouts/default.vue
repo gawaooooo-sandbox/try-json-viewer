@@ -86,6 +86,11 @@ export default {
           title: 'Pretty Print Json',
           to: '/pretty-print',
         },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'json diff',
+          to: '/json-diff',
+        },
       ],
       miniVariant: false,
       right: true,
