@@ -81,6 +81,11 @@ export default {
           title: 'Inspire',
           to: '/inspire',
         },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'Pretty Print Json',
+          to: '/pretty-print',
+        },
       ],
       miniVariant: false,
       right: true,
