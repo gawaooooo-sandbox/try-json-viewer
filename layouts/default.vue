@@ -91,6 +91,11 @@ export default {
           title: 'json diff',
           to: '/json-diff',
         },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'vue json viewer',
+          to: '/vue-json-viewer',
+        },
       ],
       miniVariant: false,
       right: true,
