@@ -1,5 +1,14 @@
 # try-json-viewer
 
+json viewer, json diff test
+
+## packages
+
+- [Pretty-Print JSON](https://pretty-print-json.js.org/)
+- [vue-json-viewer](https://github.com/chenfengjw163/vue-json-viewer)
+- [jsondiffpatch](https://github.com/benjamine/jsondiffpatch)
+- [Json structural diff](https://github.com/andreyvit/json-diff)
+
 ## Build Setup
 
 ```bash

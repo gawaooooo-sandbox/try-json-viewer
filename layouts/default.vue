@@ -78,11 +78,6 @@ export default {
         },
         {
           icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire',
-        },
-        {
-          icon: 'mdi-chart-bubble',
           title: 'Pretty Print Json',
           to: '/pretty-print',
         },
@@ -105,7 +100,7 @@ export default {
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: 'Vuetify.js',
+      title: 'json viewer, json diff test',
     }
   },
 }
