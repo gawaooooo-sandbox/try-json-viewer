@@ -1,6 +1,7 @@
 <template>
   <v-card>
     <v-card-title>json-diff</v-card-title>
+    <v-card-subtitle>show console</v-card-subtitle>
     <v-card-text>
       {{ diffs }}
     </v-card-text>
