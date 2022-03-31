@@ -88,13 +88,18 @@ export default {
         },
         {
           icon: 'mdi-chart-bubble',
-          title: 'json diff',
-          to: '/json-diff',
+          title: 'vue json viewer',
+          to: '/vue-json-viewer',
         },
         {
           icon: 'mdi-chart-bubble',
-          title: 'vue json viewer',
-          to: '/vue-json-viewer',
+          title: 'json diff patch',
+          to: '/json-diff-patch',
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'json diff(console)',
+          to: '/json-diff',
         },
       ],
       miniVariant: false,
